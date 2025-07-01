@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/smart-todo-list.git
+git clone https://github.com/nahianislam90/Smart-ToDo.git
 cd smart-todo-list
 Run the application:
 
