@@ -1,8 +1,9 @@
-📝 Smart To-Do List
+Smart To-Do List
 A simple, intuitive desktop To-Do List application built with Python and Tkinter. Organize your tasks by title, priority, due date, and due time. All tasks are securely stored in a local CSV file for easy access and management.
 
-🚀 Features
+Features
 Add Tasks: Enter task title, set priority (High/Medium/Low), and optionally add due date and time.
+Demo :![task manager work](https://github.com/user-attachments/assets/e563e99f-26ef-4814-8dd1-ff97897b9c3d) ![to do task work](https://github.com/user-attachments/assets/489a305a-ecb2-4f4b-b2ac-9ce5eaa32cbe)
 
 View Tasks: Instantly view all your tasks in a sortable, tabular format.
 
@@ -12,12 +13,12 @@ Input Validation: Ensures correct date and time formats for reliable scheduling.
 
 Simple & Lightweight: No external databases or complex setup required.
 
-🛠️ Requirements
+Requirements
 Python 3.x
 
 Standard Python libraries (tkinter, csv, datetime, os)
 
-⚡ Installation
+Installation
 Clone the repository:
 
 bash
@@ -29,7 +30,7 @@ bash
 python main.py
 (Replace main.py with your script filename if different.)
 
-🏃 Usage
+Usage
 Add a Task:
 
 Enter the task title (required).
@@ -44,7 +45,7 @@ View Tasks:
 
 Click View Tasks to see all your tasks in a table.
 
-❗ Troubleshooting
+Troubleshooting
 Date/Time Errors: Make sure to use the correct formats (YYYY-MM-DD for date, HH:MM for time).
 
 File Issues: The app creates tasks.csv automatically in the same folder as the script.
